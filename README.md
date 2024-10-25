@@ -1,5 +1,5 @@
 # GitHub:
-![](https://github-readme-stats.vercel.app/api?username=pipeosorio1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pipeosorio1&show_icons=true&theme=dark&count_private=true&include_all_commits)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pipeosorio1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pipeosorio1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
