@@ -5,7 +5,8 @@
 
 ## ¡Hola! Soy Andres Felipe Osorio
 
-Soy un desarrollador full stack con amplia experiencia en análisis y desarrollo de software, enfocado en crear soluciones tecnológicas eficaces y escalables. Me caracterizo por mis sólidas habilidades técnicas, capacidad de comunicación, trabajo en equipo y un pensamiento lógico estructurado que me permite abordar desafíos complejos con un enfoque estratégico y orientado a la calidad.
+Soy un desarrollador full stack con amplia experiencia en análisis y desarrollo de software, enfocado en crear soluciones tecnológicas eficaces y escalables. Me caracterizo por mis sólidas habilidades técnicas, capacidad de comunicación, trabajo en equipo y un pensamiento lógico estructurado que me permite abordar desafíos complejos con un enfoque estratégico y orientado a la calidad.  
+
 Poseo una sólida formación en ingeniería de software, donde he adquirido tanto los principios básicos como los conocimientos avanzados necesarios para el desarrollo de aplicaciones de alto rendimiento. Esta base académica me ha permitido aplicar prácticas modernas en el desarrollo de software y participar en proyectos complejos, siempre con un enfoque en la mejora continua y la excelencia.
 
 ### Habilidades Técnicas
@@ -24,6 +25,7 @@ Poseo una sólida formación en ingeniería de software, donde he adquirido tant
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ### Contacto
